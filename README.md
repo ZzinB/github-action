@@ -1,1 +1,1 @@
-## CI/CD 실습하기
+## CI/CD 실습하기 (Github Action)
